@@ -1,0 +1,85 @@
+/* style.css */
+
+/* Container style */
+.container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Heading style */
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Form style */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Table style */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Message style */
+  .message {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+  }
+  
+  /* Link style */
+  a {
+    color: #337ab7;
+  }
+  
+  a:hover {
+    color: #23527c;
+  }
+  
+  /* Error style */
+  .error {
+    color: #ff0000;
+    font-weight: bold;
+  }
+  
+   /* Footer */
+   footer {
+    text-align: center;
+    padding: 10px;
+  }
+  
