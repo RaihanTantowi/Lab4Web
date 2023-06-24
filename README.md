@@ -72,7 +72,7 @@ $row['nama'];?>"></td>
 ##### 3. Dengan mengikuti langkah-langkah di atas, setiap halaman di folder "lab4_php_modular" akan menggunakan template tampilan yang sama yang terdiri dari header dan footer yang diatur dalam file header.php dan footer.php.
 
 
-#### 4. Berikut adalah HASIL PROGRAM :
+##### 4. Berikut adalah HASIL PROGRAM :
 * ##### Tampilan dari *"index.php"*
 ![Gambar 1](Screenshoot/ss1.png)
 
